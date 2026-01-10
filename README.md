@@ -141,7 +141,7 @@ await client.relayMessage(m.chat, {
 ```javascript
 const kayzen == "my self"
 const Gupong == "source my fork"
-consy kiur == "source baileys ( maybe )"
+const kiur == "source baileys ( maybe )"
 ```
 
 
